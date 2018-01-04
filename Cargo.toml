@@ -1,0 +1,11 @@
+
+[package]
+name = "hyper-example"
+version = "0.1.0"
+authors = ["liiu <yliiu_nan-na@docomo.ne.jp>"]
+
+[dependencies]
+futures = "0.1"
+hyper = "0.11"
+tokio-core = "0.1"
+
